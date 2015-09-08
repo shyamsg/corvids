@@ -1,4 +1,4 @@
-# Corvid phylogeny
+B# Corvid phylogeny
 
 ## Paths to the data
 All the relevant data for this project is stored in or linked in the /home/shyam/projects/corvids/data directory.
@@ -22,8 +22,7 @@ The initial assemblies done by Fernando are here:
 The ortholog list for the 48 bird genome paper is stored as: 
 orthologs/48birds_ortholog.list
 
-...
-Additional information from Rute
+## Additional information from Rute
 From Fernando:
 > data location: /home/fpealoza/data/Corvids
 
@@ -60,6 +59,6 @@ Directly from Rute's email:
 > The ortholog list for the 48 bird genome paper (all supp in up on dir, should be useful for comparison with all other birds if you want):
 > ftp://climb.genomics.cn/pub/10.5524/100001_101000/101000/48birds_ortholog.list
 
-
+___
 
 
