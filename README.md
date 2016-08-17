@@ -1,4 +1,4 @@
-B# Corvid phylogeny
+# Corvid phylogeny
 
 ## Paths to the data
 All the relevant data for this project is stored in or linked in the /home/shyam/projects/corvids/data directory.
